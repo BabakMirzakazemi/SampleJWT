@@ -1,0 +1,14 @@
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\bin\Debug\net6.0\Project.DataLayer.deps.json
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\bin\Debug\net6.0\Project.DataLayer.runtimeconfig.json
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\bin\Debug\net6.0\Project.DataLayer.dll
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\bin\Debug\net6.0\Project.DataLayer.pdb
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\obj\Debug\net6.0\Project.DataLayer.csproj.AssemblyReference.cache
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\obj\Debug\net6.0\Project.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\obj\Debug\net6.0\Project.DataLayer.AssemblyInfoInputs.cache
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\obj\Debug\net6.0\Project.DataLayer.AssemblyInfo.cs
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\obj\Debug\net6.0\Project.DataLayer.csproj.CoreCompileInputs.cache
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\obj\Debug\net6.0\Project.DataLayer.dll
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\obj\Debug\net6.0\refint\Project.DataLayer.dll
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\obj\Debug\net6.0\Project.DataLayer.pdb
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\obj\Debug\net6.0\Project.DataLayer.genruntimeconfig.cache
+D:\my_job\programming\TestProjects\JWT\1\main\SampleJWT\Project.DataLayer\obj\Debug\net6.0\ref\Project.DataLayer.dll
